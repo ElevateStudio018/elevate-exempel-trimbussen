@@ -1,0 +1,66 @@
+# Trimbussen i Norr AB – exempelsajt från Elevate Studio
+
+Salongen parkerar på uppfarten · Mobil hundtrimning i Västerbotten
+
+Komplett statisk exempelsajt (HTML/CSS/JS, inga beroenden) byggd av Elevate Studio. **Företaget är påhittat** –
+namn, siffror, personer och projekt är exempelinnehåll.
+
+- Öppna `index.html` i en webbläsare, eller publicera mappen med GitHub Pages (Settings → Pages → branch `main`, mapp `/`).
+- Bilderna i `img/` är fria illustrationsbilder (CC0) och ska bytas mot kundens egna med samma filnamn.
+- `paket.json` beskriver det grafiska paketet (typsnitt, färger, former, sektionsvarianter).
+
+## Bildkällor
+- `ov0acb3a23be` – stocksnap: https://stocksnap.io/photo/couple-bed-TMPW2UJPBR (CC0)
+- `ov12a7217a71` – rawpixel: https://www.rawpixel.com/image/3394768/free-photo-image-animal-canine-cc0 (CC0)
+- `ov191213c2d7` – rawpixel: https://www.rawpixel.com/image/3283283/free-photo-image-dog-retriever-labrador-animal (CC0)
+- `ov2105f54cb0` – rawpixel: https://www.rawpixel.com/image/3578728/free-photo-image-animal-asphalt-canine (CC0)
+- `ov258bb673bc` – wordpress: https://wordpress.org/photos/photo/741635cb52/ (CC0)
+- `ov2f2f9902c4` – rawpixel: https://www.rawpixel.com/image/6018614/brown-dog-portrait-free-public-domain-cc0-photo (CC0)
+- `ov3114b12a6a` – stocksnap: https://stocksnap.io/photo/couple-food-XISJIO5HHE (CC0)
+- `ov33a376a8d2` – rawpixel: https://www.rawpixel.com/image/6038485/photo-image-public-domain-plant-black (CC0)
+- `ov358a6f66ac` – stocksnap: https://stocksnap.io/photo/animal-dog-ZO5GDP2QY1 (CC0)
+- `ov387cf0c75b` – rawpixel: https://www.rawpixel.com/image/6038516/photo-image-public-domain-dog-cute (CC0)
+- `ov39dd7b3514` – stocksnap: https://stocksnap.io/photo/couple-food-IHQGVIHK7L (CC0)
+- `ov3ab46b19cd` – rawpixel: https://www.rawpixel.com/image/3285149/free-photo-image-dog-teeth (CC0)
+- `ov3efd33c3d4` – stocksnap: https://stocksnap.io/photo/dog-puppy-FBDF4RCNJW (CC0)
+- `ov42b2144ccd` – stocksnap: https://stocksnap.io/photo/dog-pet-JLLQ94SRFS (CC0)
+- `ov47bc935cbc` – stocksnap: https://stocksnap.io/photo/shihtzu-puppy-HYXYE3VLY0 (CC0)
+- `ov4ab70436cb` – rawpixel: https://www.rawpixel.com/image/3284806/free-photo-image-husky-animal-golden-retriever (CC0)
+- `ov4b38bcb669` – stocksnap: https://stocksnap.io/photo/couple-food-H8DMCLKYO8 (CC0)
+- `ov56fdd6155e` – stocksnap: https://stocksnap.io/photo/dog-puppy-92XUR7W0OR (CC0)
+- `ov5b2d17421c` – rawpixel: https://www.rawpixel.com/image/6064473/free-public-domain-cc0-photo (CC0)
+- `ov6cc2e79152` – rawpixel: https://www.rawpixel.com/image/5906436/photo-image-background-public-domain-person (CC0)
+- `ov6e1bc900f2` – rawpixel: https://www.rawpixel.com/image/6025752/photo-image-public-domain-golden-green (CC0)
+- `ov70600a1d0d` – rawpixel: https://www.rawpixel.com/image/5947539/free-public-domain-cc0-photo (CC0)
+- `ov71b164eb6c` – stocksnap: https://stocksnap.io/photo/dog-puppy-19KEJ58BB9 (CC0)
+- `ov78ab768c98` – stocksnap: https://stocksnap.io/photo/black-puppy-WR0AOMZ11V (CC0)
+- `ov823c0db472` – stocksnap: https://stocksnap.io/photo/dog-puppy-ZHOBST04IP (CC0)
+- `ov83d219d0bf` – rawpixel: https://www.rawpixel.com/image/5908139/image-background-public-domain-dog (CC0)
+- `ov8dc090b75f` – rawpixel: https://www.rawpixel.com/image/6031993/photo-image-public-domain-person-dog (CC0)
+- `ov93507bfa69` – rawpixel: https://www.rawpixel.com/image/6052892/free-public-domain-cc0-photo (CC0)
+- `ov93d4fc6bb6` – rawpixel: https://www.rawpixel.com/image/11193273/dog-walk (CC0)
+- `ov9a96703714` – rawpixel: https://www.rawpixel.com/image/5921251/photo-image-background-public-domain-dog (CC0)
+- `ov9ec0e4a894` – rawpixel: https://www.rawpixel.com/image/5959260/free-public-domain-cc0-photo (CC0)
+- `ova5740c5554` – wordpress: https://wordpress.org/photos/photo/495635cb50/ (CC0)
+- `ovae36e9b1bf` – rawpixel: https://www.rawpixel.com/image/11189429/black-dog-portrait-domestic-animal (CC0)
+- `ovaf46b68f44` – rawpixel: https://www.rawpixel.com/image/6040715/photo-image-public-domain-border-dog (CC0)
+- `ovb4149263ec` – stocksnap: https://stocksnap.io/photo/dog-puppy-CWQ1J40ZKB (CC0)
+- `ovbbec8b5a33` – rawpixel: https://www.rawpixel.com/image/6037073/photo-image-public-domain-golden-dog (CC0)
+- `ovbc47e7d101` – rawpixel: https://www.rawpixel.com/image/5920781/photo-image-public-domain-dog-free (CC0)
+- `ovbc7fec5f98` – stocksnap: https://stocksnap.io/photo/dog-puppy-TBA5BQMCQE (CC0)
+- `ovc996b595ed` – rawpixel: https://www.rawpixel.com/image/11189302/park-running-playful-happy-dog (CC0)
+- `ovcba1970f64` – wordpress: https://wordpress.org/photos/photo/66635cb4a5/ (CC0)
+- `ovd8ca99ef3e` – stocksnap: https://stocksnap.io/photo/dog-puppy-8MNEFJ1N2M (CC0)
+- `ovdf21c5fe7b` – rawpixel: https://www.rawpixel.com/image/6036806/photo-image-public-domain-plant-green (CC0)
+- `ove184677af8` – stocksnap: https://stocksnap.io/photo/animals-dogs-5DFYZQDDQ7 (CC0)
+- `ove4c53a2b13` – stocksnap: https://stocksnap.io/photo/happy-blacklabrador-AOSAX9RXJA (CC0)
+- `ove62b95e4a5` – rawpixel: https://www.rawpixel.com/image/6025967/photo-image-public-domain-person-dog (CC0)
+- `ove9044a7ecb` – rawpixel: https://www.rawpixel.com/image/5960450/free-public-domain-cc0-photo (CC0)
+- `ove905011f9b` – stocksnap: https://stocksnap.io/photo/people-man-1A52V0Y1UY (CC0)
+- `ove940ac3bd9` – wordpress: https://wordpress.org/photos/photo/6762d205e3/ (CC0)
+- `ovecf8754d9f` – wordpress: https://wordpress.org/photos/photo/64662d2060/ (CC0)
+- `ovf2a7851836` – stocksnap: https://stocksnap.io/photo/dachshund-dog-BYFQQVMAUU (CC0)
+- `ovf2c4ac6bcf` – wordpress: https://wordpress.org/photos/photo/74662d2067/ (CC0)
+- `ovf6419e1f25` – wordpress: https://wordpress.org/photos/photo/12635cb4d3/ (CC0)
+- `ovf8eaa4b9c6` – rawpixel: https://www.rawpixel.com/image/3301380/free-photo-image-wolf-walking-forest-dog-walk (CC0)
+- `ovfcfa05e88f` – stocksnap: https://stocksnap.io/photo/sleeping-dog-TNQRFN2UVV (CC0)
